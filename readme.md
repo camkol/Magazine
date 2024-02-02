@@ -7,6 +7,6 @@
 
 ## Notes
 
--Improved responsiveness
--Worked on images and made self-sufficient
--Updated tags
+- Improved responsiveness
+- Worked on images and made self-sufficient
+- Updated tags
